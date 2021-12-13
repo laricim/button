@@ -1,4 +1,4 @@
-#Kurulum
+# Kurulum
 
 1-Öncelikle hiç bilmeyenler için bilgisayarınızda node yüklü olmalı. Yüklü değilse [Node.JS](https://nodejs.org/en/) adresinden yükleyip kurun.
 
