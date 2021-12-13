@@ -1,0 +1,29 @@
+{
+  "name": "djs-button-role",
+  "version": "1.0.0",
+  "description": "Discord sunucuları için butonlu rol alma sistemi",
+  "main": "nasty.js",
+  "scripts": {
+    "test": "node nasty.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NastyJs/button.git"
+  },
+  "keywords": [
+    "Discord-bot",
+    "discord",
+    "discord.js",
+    "Nasty"
+  ],
+  "author": "Nasty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NastyJs/button"
+  },
+  "homepage": "https://github.com/NastyJs/button#readme",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.1"
+  }
+}
