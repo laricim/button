@@ -30,3 +30,6 @@
 5- Son olarak rollerin mesajının atılacağı kanala gelerek prefixbutton yazıyoruz örnek:
 
 ![!button](https://user-images.githubusercontent.com/96020061/145855937-68959d76-6120-4c51-a603-6d30640081a2.png)
+
+# Yardım Almak için 
+# Nasty#1782 - 908061037109063712
