@@ -1,6 +1,5 @@
-Selamlar bugün kendi yazdığım butonlu rol alma sistemi altyapısını sizlerle paylaşacağım
-
 #Kurulum
+
 1-Öncelikle hiç bilmeyenler için bilgisayarınızda node yüklü olmalı. Yüklü değilse [Node.JS](https://nodejs.org/en/) adresinden yükleyip kurun.
 
 2- Dosyayı indirip masaüstüne çıkartıktan sonra settings.json adlı dosyayı açıp gerekli bilgileri dolduruyoruz
