@@ -4,21 +4,23 @@
 
 2- Dosyayı indirip masaüstüne çıkartıktan sonra settings.json adlı dosyayı açıp gerekli bilgileri dolduruyoruz
 
-![settings.json](https://user-images.githubusercontent.com/96020061/145852274-ff07c22f-1ea9-4f95-89cf-be2684eb2162.png)
+```js
+settings.json
+```
+```js
+* "botOwner" : "Bot Sahibinin ID'si"
+* "botPrefix" : "Botu çalıştırmaya yarayacak olan ön ek"
+* "botToken" : "Botunuzun tokeni"
+* "botStatus" : "Botun durumunda yazıcak olan yazı"
+* "botActivity" : "Botun çevrimiçi vs. olup olmadığını gösteren kısım (dnd / idle / online)"
+* "guildName" : "Sunucunuzun ismi"
 
-* "botOwner" : Bot Sahibinin ID'si 
-* "botPrefix" : Botu çalıştırmaya yarayacak olan ön ek
-* "botToken" : Botunuzun tokeni
-* "botStatus" : Botun durumunda yazıcak olan yazı
-* "botActivity" : Botun çevrimiçi vs. olup olmadığını gösteren kısım (dnd / idle / online)
-* "guildName" : Sunucunuzun ismi
-
-* "Red" : Kırmızı renk rolünün ID'si
-* "Pink" : Pembe renk rolünün ID'si 
-* "Orange" : Turuncu renk rolünün ID'si
-* "Yellow" : Sarı rolünün ID'si
-* "Green" : Yeşil rolünün ID'si
-
+* "Red" : "Kırmızı renk rolünün ID'si"
+* "Pink" : "Pembe renk rolünün ID'si" 
+* "Orange" : "Turuncu renk rolünün ID'si"
+* "Yellow" : "Sarı renk rolünün ID'si"
+* "Green" : "Yeşil rolünün ID'si"
+``` 
 3- Gerekli yerleri doldurduktan sonra modulleri yukle.bat dosyasını açıp modüllerin yüklenmesini bekliyoruz.
 
 ![modulleri yukle.bat](https://user-images.githubusercontent.com/96020061/145852488-7eccca5b-d98b-4b9a-a77f-6e858770245f.png)
