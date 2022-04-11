@@ -33,5 +33,10 @@ settings.json
 
 ![!button](https://user-images.githubusercontent.com/96020061/145855937-68959d76-6120-4c51-a603-6d30640081a2.png)
 
-# Yardım Almak için 
-# Nasty#1782 - 908061037109063712
+# Bot Owner
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908061037109063712)](https://discord.com/users/908061037109063712) 
+
+[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/908061037109063712)
+[![Github Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/laricim)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelarinka)
+
